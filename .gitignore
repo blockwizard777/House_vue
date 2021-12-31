@@ -1,0 +1,12 @@
+**/.idea
+**/.vscode
+**/package
+**/*.log
+**/.env
+**/composer.lock
+**/tmp/
+**/package-lock.json
+**/yarn.lock
+src/backend/public/export/
+**/.cache/
+**/~*.xlsx
