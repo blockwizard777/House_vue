@@ -1,0 +1,22 @@
+APP_DEBUG = false
+
+[APP]
+DEFAULT_TIMEZONE = Asia/Shanghai
+DOMAIN = http://
+
+[DATABASE]
+TYPE = mysql
+HOSTNAME = 127.0.0.1
+DATABASE = house
+USERNAME = root
+PASSWORD = 
+HOSTPORT = 3306
+CHARSET = utf8mb4
+DEBUG = true
+
+[LANG]
+default_lang = zh-cn
+
+
+[JWT]
+SECRET=d7acb107730db68a6159fd049f7af0ad

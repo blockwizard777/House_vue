@@ -1,0 +1,15 @@
+{
+    "name": "zijin",
+    "alias": "zijin",
+    "description": "资金管理",
+    "version": "1.0.0",
+    "keywords": ["资金"],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\zijin\\ZijinService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

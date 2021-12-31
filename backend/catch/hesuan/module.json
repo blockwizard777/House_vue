@@ -1,0 +1,15 @@
+{
+    "name": "hesuan",
+    "alias": "hesuan",
+    "description": "hesuan",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\hesuan\\HesuanService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

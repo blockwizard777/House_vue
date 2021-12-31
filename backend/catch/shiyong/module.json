@@ -1,0 +1,15 @@
+{
+    "name": "Shiyong",
+    "alias": "shiyong",
+    "description": "",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\shiyong\\ShiyongService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

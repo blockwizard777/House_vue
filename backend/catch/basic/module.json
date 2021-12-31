@@ -1,0 +1,15 @@
+{
+    "name": "Basic",
+    "alias": "basic",
+    "description": "Basic Data Formats",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\basic\\BasicService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}
