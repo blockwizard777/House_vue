@@ -1,0 +1,157 @@
+.zz-app-container {
+  padding: 15px 50px;
+  min-height: calc(100vh - 58px);
+}
+
+.zz-app-container .el-divider--horizontal {
+  margin: 10px 0;
+}
+
+.zz-app-container .el-form-item__label {
+  font-size: $pxNormal;
+}
+
+.zz-linespcae-exact {
+  margin-bottom: 1px !important;
+}
+
+.zz-linespcae-exact-5 {
+  margin-bottom: 5px !important;
+}
+
+.zz-empty-col {
+  height: 1px;
+}
+
+.zz-Head {
+  font-size: $pxHead;
+  font-weight: bold;
+}
+
+.zz-content {
+  padding-top: 10px;
+}
+
+.zz-content table, .sub-dialog table {
+  border-spacing: initial !important;
+}
+
+.zz-content th, .sub-dialog th {
+  border: 1px solid #c1c7c6 !important;
+  font-size: $pxHead;
+  background: $cTHead;
+}
+
+.zz-content td, .sub-dialog td {
+  border: 1px solid #c1c7c6 !important;
+  font-size: $pxNormal;
+  background: $cTBody;
+}
+
+.zz-thead {
+  font-size: $pxHead !important;
+  background: $cTHead !important;
+}
+
+.zz-content .el-dialog__header, .sub-dialog .el-dialog__header {
+  background: #00aa82 !important;
+  padding: 5px !important;
+}
+
+.zz-content .el-dialog__title, .sub-dialog .el-dialog__title {
+  padding: 5px 15px;
+  font-size: $pxHead;
+  font-weight: bold;
+}
+
+.zz-content .el-dialog__headerbtn, .sub-dialog .el-dialog__headerbtn {
+  top: 10px;
+  right: 10px;
+}
+.zz-content .zz-sidebar-border {
+  border: 1px solid $cLine;
+  box-sizing: border-box;
+}
+.zz-content .zz-table-header {
+  height: 30px;
+  background: $cTHead;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  font-size: 14px;
+  font-width: bold;
+  border: 1px solid $cLine;
+}
+
+.zz-header {
+  background: $cTHead!important;
+}
+.zz-sidebar-header {
+  background: $cPrimary!important;
+  height: 33px;
+}
+.zz-fix-header th {
+  background: $cTHead;
+  height: 30px;
+  font-size: 14px;
+  text-align: left;
+  padding: 0 20px;
+}
+.inline-block {
+  display: inline-block;
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.align-left {
+  display: flex;
+  padding-left: 10px;
+  color: white;
+  align-items: center;
+  border-bottom: 1px solid $cLine;
+}
+
+.item-span {
+  display: block;
+  border: solid rgba(0, 0, 0, 0.2) 1px;
+  padding-left: 10px;
+  border-radius: 5px;
+  height: 32px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-28 {
+  margin-top: 28px;
+}
+
+.pt-10 {
+  padding-top: 10px;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+.pt-28 {
+  padding-top: 28px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.dialog-with-fixedheader-table th, .dialog-jaiokuan-with-fixedheader-table-index {
+  background: $cTBody !important;
+}
+.dialog-with-fixedheader-table td {
+  background: #ffffff;
+}
+
